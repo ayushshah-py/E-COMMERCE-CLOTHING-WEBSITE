@@ -23,8 +23,12 @@ This is a fully responsive E-commerce website for a fictional clothing and acces
 ## 📷 Screenshots
 
 <!-- Add screenshots here if available -->
-![DRASHTI WEBSITE IMG 1](DRASHTI WEBSITE IMG 1.png)
+![DRASHTI WEBSITE IMG 1](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%201.png?raw=true)
 ![Product Page Screenshot](path/to/product-page-screenshot.png)
+![Product Page Screenshot](path/to/product-page-screenshot.png)
+![Product Page Screenshot](path/to/product-page-screenshot.png)
+![Product Page Screenshot](path/to/product-page-screenshot.png)
+
 
 ## 🛠️ How to Run
 
