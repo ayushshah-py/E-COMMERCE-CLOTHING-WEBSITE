@@ -23,7 +23,7 @@ This is a fully responsive E-commerce website for a fictional clothing and acces
 ## 📷 Screenshots
 
 <!-- Add screenshots here if available -->
-![Homepage Screenshot](path/to/homepage-screenshot.png)
+![DRASHTI WEBSITE IMG 1](DRASHTI WEBSITE IMG 1.png)
 ![Product Page Screenshot](path/to/product-page-screenshot.png)
 
 ## 🛠️ How to Run
