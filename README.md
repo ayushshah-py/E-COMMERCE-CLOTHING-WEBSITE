@@ -22,19 +22,18 @@ This is a fully responsive E-commerce website for a fictional clothing and acces
 
 ## 📷 Screenshots
 
-<!-- Add screenshots here if available -->
-![DRASHTI WEBSITE IMG 1](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%201.png?raw=true)
-![Product Page Screenshot](path/to/product-page-screenshot.png)
-![Product Page Screenshot](path/to/product-page-screenshot.png)
-![Product Page Screenshot](path/to/product-page-screenshot.png)
-![Product Page Screenshot](path/to/product-page-screenshot.png)
+[DRASHTI WEBSITE IMG 1](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%201.png?raw=true)
+[DRASHTI WEBSITE IMG 2](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%202.png?raw=true)
+[DRASHTI WEBSITE IMG 3](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%203.png?raw=true)
+[DRASHTI WEBSITE IMG 4](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%203.png?raw=true)
+[DRASHTI WEBSITE IMG 5](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE/blob/main/DRASHTI%20WEBSITE%20IMG%205.png?raw=true)
 
 
 ## 🛠️ How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-clothing-site.git
+   git clone https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE.git
    ```
 2. Open the `index.html` file in your preferred browser.
 
