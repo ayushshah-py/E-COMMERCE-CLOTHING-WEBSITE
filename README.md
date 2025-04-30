@@ -61,4 +61,4 @@ ecommerce-clothing-site/
 
 **Author**: AYUSH SHAH  
 **Email**: ayushs1904@gmail.com  
-**GitHub**: [ayushshah-py](https://github.com/yourusername)
+**GitHub**: [ayushshah-py](https://github.com/ayushshah-py/E-COMMERCE-CLOTHING-WEBSITE.git)
